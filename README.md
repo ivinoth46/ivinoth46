@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vinoth</h1>
-<h3 align="center">tech info</h3>
+<h3 align="center">tech new</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivinoth46&label=Profile%20views&color=0e75b6&style=flat" alt="ivinoth46" /> </p>
 
